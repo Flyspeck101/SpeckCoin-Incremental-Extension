@@ -1,1 +1,15 @@
+{
+  "manifest_version": 2,
 
+  "name": "SpeckCoin Incremental",
+  "description": "This extension has some handy links relating to SpeckCoin Incremental",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.ico",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+    
+   ]
+}
